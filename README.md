@@ -7,12 +7,9 @@ The add-in runs locally on Windows and does not require a cloud service.
 
 ## Catalog and Free edition
 
-The complete catalog contains 113 numbered entries:
-75 standalone functions and 38 menus containing 199 actions — 274 actions in total.
+The catalog contains 114 numbered commands. Pectus Free shows the full catalog and lets you run six commands.
 
-**The Free edition provides the first six entries of the standard catalog.**
-The screenshots and demonstrations also show tools from the complete catalog;
-these are not all available in Free.
+In Pectus Full 2.0.0, command 87 creates an editable PivotTable from a selected Power Pivot model table in a closed Excel workbook. The layout and cached data are saved in `PERSONAL.XLSB`. Run command 87 again to load fresh data.
 
 Standard catalog numbering follows Russian alphabetical order.
 Switching the interface language does not change the numbers.
